@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Allure测试报告（产物，不入库）
+allure_report/
+allure_raw/
+allure-results/
+
+# 虚拟环境
+venv/
+.venv/
